@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tache21/static/css/main.1be13e85.css",
+    "main.js": "/tache21/static/js/main.36725b19.js",
+    "static/js/453.348db58f.chunk.js": "/tache21/static/js/453.348db58f.chunk.js",
+    "static/media/tache.jpg": "/tache21/static/media/tache.a33132a6c405b4dff0fa.jpg",
+    "index.html": "/tache21/index.html",
+    "main.1be13e85.css.map": "/tache21/static/css/main.1be13e85.css.map",
+    "main.36725b19.js.map": "/tache21/static/js/main.36725b19.js.map",
+    "453.348db58f.chunk.js.map": "/tache21/static/js/453.348db58f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be13e85.css",
+    "static/js/main.36725b19.js"
+  ]
+}
